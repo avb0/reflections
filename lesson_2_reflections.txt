@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+1)I'm assuming you'd need to actually create the fucking repository before you can use it
+
+How is the staging area different from the working directory and the repository, what value do you think it offers?
+
+1)The staging area is used to control exactly what files are to be commited. it offers a greater variery on what files you want to keep track of at which times
