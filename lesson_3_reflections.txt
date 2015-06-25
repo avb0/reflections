@@ -9,4 +9,9 @@ Why might you want to always pull changes manually rather than having Git automa
 2) allows more control on what files go where
 3) if the repository is public you may not want to implement the changes other people have made
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+1) A fork is the same as cloning a repository except that it happens on the gitHub servers only
+2) cloning is where you make a copy of a repository
+3) a branch is a not necessarily linear progression of different changes of code. it may be an offshot of the master branch where experimental changes take place
  
